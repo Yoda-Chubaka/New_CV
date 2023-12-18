@@ -214,6 +214,10 @@ body {
     margin-bottom: 10px;
 }
 
+.education_certificate:visited {
+    text-decoration: none;
+}
+
 /* sidebar styles */
 
 .sidebar {
